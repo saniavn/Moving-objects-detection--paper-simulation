@@ -1,5 +1,5 @@
 # VisionPaper-Simulation
-Language: MATLAB 
+
 Machine Vision| Nerual Networks
 refrences:
 Maddalena, Lucia, and Alfredo Petrosino. "A self-organizing approach to background subtraction for visual surveillance applications." IEEE Transactions on Image Processing 17, no. 7 (2008): 1168-1177.
